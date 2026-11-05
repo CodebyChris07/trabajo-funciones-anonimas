@@ -1,0 +1,32 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "SolucionParte3",
+      "request": "launch",
+      "mainClass": "SolucionParte3",
+      "projectName": "trabajo-funciones-anonimas_2e9870f6"
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "ejecutarParte3Scala",
+      "mainClass": "ejecutarParte3Scala",
+      "buildTarget": "file:/C:/Users/ASUS/Desktop/trabajo-funciones-anonimas/.scala-build/?id=trabajo-funciones-anonimas_d5c0a6989e",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "ejecutarParte4Scala",
+      "mainClass": "ejecutarParte4Scala",
+      "buildTarget": "file:/C:/Users/ASUS/Desktop/trabajo-funciones-anonimas/.scala-build/?id=trabajo-funciones-anonimas_d5c0a6989e",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    }
+  ]
+}
